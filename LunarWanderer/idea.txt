@@ -1,5 +1,5 @@
 Level 1:
-Focus I (Active) - Gain a massive increase in attack speed and a slight increase in damage, only if holding your stick.
+Focus I (Active) - Gain a 2 * generic.attack_speed increase in attack speed and a 1.5 * generic.attack_damage increase in damage, only if holding your stick.
 Wind Speed I (Passive) - Gain a slight increase in movement speed(sneaking walking and sprinting).
 
 Level 2:
