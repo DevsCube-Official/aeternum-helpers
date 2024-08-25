@@ -1,0 +1,1 @@
+# Gain 2 seconds of resistance

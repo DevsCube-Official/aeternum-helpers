@@ -1,0 +1,1 @@
+# Heal a player for 10 hearts (or damage an undead) and lose 5 hearts. (raycast)

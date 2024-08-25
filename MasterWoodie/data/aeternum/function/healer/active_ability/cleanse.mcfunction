@@ -1,0 +1,1 @@
+# 4: Cleanses negative debuffs from closest player

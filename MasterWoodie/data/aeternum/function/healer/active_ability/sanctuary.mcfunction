@@ -1,0 +1,1 @@
+# creates an area within a small radius where players gain total resistance, (knockback resistance?) and weakness for a brief period of time. Mobs gain max weakness and slowness.
