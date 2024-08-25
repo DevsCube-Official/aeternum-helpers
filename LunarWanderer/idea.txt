@@ -1,0 +1,31 @@
+Level 1:
+Focus I (Active) - Gain a massive increase in attack speed and a slight increase in damage, only if holding your stick.
+Wind Speed I (Passive) - Gain a slight increase in movement speed(sneaking walking and sprinting).
+
+Level 2:
+Night Hunter I (Passive) - Turn invisible when it's night time. The invisibility effect wears off as soon as you deal or take damage, followed by a slowness effect for 0.5 seconds.
+
+Level 3:
+Night Hunter II (Passive Upgrade) - At night, you gain night vision.
+
+Level 4:
+Wall Dash I (Active) - Dash to a wall if it's closer than 10 blocks away from you.
+
+Level 5:
+Night Hunter III (Passive Upgrade) - The invisibility effect can only be reapplied if there are no enemies within 100 blocks around you for 10 seconds.
+
+Level 6:
+Focus II (Active Upgrade) - Using Focus boosts your damage more.
+
+Level 7:
+Wall Dash II (Active Upgrade) - Dash to a wall if it's closer than 25 blocks away from you, also reduces your gravity until you jump off.
+
+Level 8:
+
+
+Level 9:
+Wall Dash III (Active Upgrade) - Dash to a wall if it's closer than 33 blocks away from you. Removes gravity until you jump off.
+
+Level 10:
+Focus III (Active Upgrade) - No attack cooldown.
+Night Hunter IV (Passive Upgrade) - The invisibility effect reapplies if there are no enemies within 50 blocks around you for 2.5 seconds.
