@@ -1,0 +1,6 @@
+- make a resource pack for custom model data
+- make levels from 2 to 10
+- come up with level 8
+- more movement abilities? maybe a dash?
+- figure out a way to select other abilities, i think ill go with multiple rods
+- make other abilities, especially night hunter
