@@ -1,0 +1,1 @@
+execute if score @s level matches 1 run function rpg:wanderer/levels/level_1/level_1
