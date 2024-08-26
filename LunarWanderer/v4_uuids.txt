@@ -1,15 +1,15 @@
 51fc586c-0046-4bcc-8142-ec9addaf2314 (Focus I, generic.attack_speed, rpg:wamderer/level_1/focus_i_cast.mcfunction)
-04982dbb-1c81-4296-adc8-4d12e72abe3e (Focus I, generic.attack_damage, rpg:wanderer/level_1/wind_speed_i.mcfunction)
-c1d7b4e2-54b2-4abd-bf44-8f62de6b7265
-c5c1a3cd-3fef-4e5a-a415-dfe6a703b390
-2d551a96-3cbc-43e2-a551-9c81d90fbb8c
-2327498b-8e1b-49de-a147-61362bae6d6d
-4afeb2e4-64b3-43f8-862a-8c36c119b0dd
+04982dbb-1c81-4296-adc8-4d12e72abe3e (Focus I, generic.attack_damage, rpg:wanderer/level_1/focus_i_cast.mcfunction)
+c1d7b4e2-54b2-4abd-bf44-8f62de6b7265 (Wind Speed I, generic.movement_speed, rpg:wanderer/level_1/wind_speed_i.mcfunction)
+2d551a96-3cbc-43e2-a551-9c81d90fbb8c (Wind Speed I, generic.jump_strength, rpg:wanderer/level_1/wind_speed_i.mcfunction)
+2327498b-8e1b-49de-a147-61362bae6d6d (Wind Speed I, generic.movement_efficiency, rpg:wanderer/level_1/wind_speed_i.mcfunction)
+4afeb2e4-64b3-43f8-862a-8c36c119b0dd (Wind Speed I, generic.gravity, rpg:wanderer/level_1/wind_speed_i.mcfunction)YAY
 90601489-381d-4d3a-aa3c-3e8d507ea5d7
 4a5bda07-c337-4eea-8b6e-c76d770041c5
 962325ea-5583-4f44-a3f1-d4c5ae2a3d62
 e83a9e6d-6727-4523-b2a9-c38154fb6eff
 16acebb4-c845-4c51-967f-4baea0bf9239
+c5c1a3cd-3fef-4e5a-a415-dfe6a703b390
 45f137b7-ca25-4f20-80e1-ce7fd05f559b
 af35784a-5131-42c0-9e6f-6691b1122c7d
 d4a35970-c935-4e4a-97cb-2b5ecc7ccf11
