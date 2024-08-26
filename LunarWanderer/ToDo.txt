@@ -4,3 +4,7 @@
 - more movement abilities? maybe a dash?
 - figure out a way to select other abilities, i think ill go with multiple rods
 - make other abilities, especially night hunter
+
+
+NOTES:
+- night stars at 13000 daytime ticks and ends at 23000 day time ticks
