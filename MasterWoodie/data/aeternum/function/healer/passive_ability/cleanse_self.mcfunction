@@ -1,0 +1,1 @@
+# Remove all negative status effects from self
