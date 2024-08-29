@@ -1,4 +1,4 @@
-# executed as targeted player, healer is active_player
+# executed as targeted player, healer has tag "active_player"
 # score: temp.heal_amount: 0(normal heal) | 1(big heal)
 
 # 2 hearts
