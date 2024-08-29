@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "":{
+            "trigger": "using_item",
+            "conditions": {
+                "item": {
+                    "items": "minecraft:stick",
+                    "predicates": {
+                        "custom_data": {
+                            "id":"ability_stick"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "aeternum:ability_stick/use"
+    }
+}

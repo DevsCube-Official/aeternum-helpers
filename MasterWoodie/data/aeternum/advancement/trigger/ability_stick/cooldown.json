@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "":{
+            "trigger": "tick"
+        }
+    },
+    "rewards": {
+        "function": "aeternum:ability_stick/cooldown"
+    }
+}

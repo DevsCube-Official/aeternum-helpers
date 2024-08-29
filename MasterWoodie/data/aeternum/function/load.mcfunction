@@ -10,6 +10,10 @@ scoreboard objectives add class_level dummy
 # temporary score stuff
 scoreboard objectives add temp dummy
 
+##
+# Custom scores
+##
+scoreboard objectives add ability_stick_cd dummy
 
 ##
 # schedule loop functions
