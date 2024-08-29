@@ -1,0 +1,14 @@
+
+Currently no leveling system so sorry
+
+
+Thorny vine ability is still WIP
+
+To cast Bramble:
+function class.druid:ability/bramble/cast
+
+To cast Nutrition:
+function class.druid:ability/nutrition/cast
+
+To cast Metamorphosis:
+function class.druid:ability/nutrition/cast
