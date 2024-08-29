@@ -1,0 +1,1 @@
+execute if score @s can_be_invisible matches 1 if score @s day_time matches 13000..23000 run effect give @s invisibility 1 1 true

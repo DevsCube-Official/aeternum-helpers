@@ -16,6 +16,11 @@ scoreboard objectives add focus_duration dummy
 execute as @a unless score @s focus_duration matches 1.. run scoreboard players set @s focus_duration 0
 scoreboard objectives add focus_cooldown dummy
 execute as @a unless score @s focus_cooldown matches 1.. run scoreboard players set @s focus_cooldown 0
+scoreboard objectives add day_time dummy
+scoreboard objectives add damage_taken minecraft.custom:damage_taken
+scoreboard objectives add damage_buffer dummy
+scoreboard objectives add damage_counter dummy
+scoreboard objectives add can_be_invisible dummy
 
 execute as @a run attribute @s generic.attack_speed modifier remove 51fc586c-0046-4bcc-8142-ec9addaf2314
 execute as @a run attribute @s generic.attack_damage modifier remove 04982dbb-1c81-4296-adc8-4d12e72abe3e
