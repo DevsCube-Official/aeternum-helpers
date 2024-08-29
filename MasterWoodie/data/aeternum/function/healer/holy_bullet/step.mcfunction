@@ -1,8 +1,8 @@
-# executed as the bullet .3 blocks in front of bullet
+# executed as the bullet .3 blocks in front of bullet (owner has tag "active_player")
 
-execute unless block ~ ~ ~ air run return run function aeternum:healer/holy_bullet/hit_block
+execute unless block ~ ~ ~ #healer/holy_bullet_passthrough run return run function aeternum:healer/holy_bullet/hit_block
 
-execute as @e[type=#undead,dx=1,dy=1,dz=1] if entity @s[dx=-1,dy=-1,dz=-1] run function aeternum:healer/holy_bullet/hit_undead
+execute as @e[type=#healer/holy_bullet_hit,dx=1,dy=1,dz=1] if entity @s[dx=-1,dy=-1,dz=-1] run function aeternum:healer/holy_bullet/hit_undead
 
 tp @s ~ ~ ~
 
