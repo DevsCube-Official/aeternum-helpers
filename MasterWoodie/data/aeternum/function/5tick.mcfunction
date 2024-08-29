@@ -1,4 +1,4 @@
-# loops every 5 ticks
+# from server, loops every 5 ticks
 
 execute as @a[tag=class_healer] run function aeternum:healer/passive_ability/heal_self
 
