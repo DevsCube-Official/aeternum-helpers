@@ -1,0 +1,24 @@
+
+Currently no leveling system, sorry
+
+
+
+Before casting abilities please give yourself the tag:
+"aeternum.class.druid"
+
+As of now, this tag is what will say that you are in the Druid class
+
+
+
+Thorny vine ability is still WIP
+
+To cast Bramble:
+function class.druid:ability/bramble/cast
+
+To cast Nutrition:
+function class.druid:ability/nutrition/cast
+
+To cast Metamorphosis:
+function class.druid:ability/nutrition/cast
+
+
