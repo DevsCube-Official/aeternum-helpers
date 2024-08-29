@@ -1,0 +1,20 @@
+{
+    "values": [
+        "item",
+        "interaction",
+        "item_frame",
+        "armor_stand",
+        "item_display",
+        "area_effect_cloud",
+        "minecart",
+        "command_block_minecart",
+        "hopper_minecart",
+        "boat",
+        "chest_boat",
+        "chest_minecart",
+        "command_block_minecart",
+        "end_crystal",
+        "#impact_projectiles",
+        "shulker_bullet"
+    ]
+}

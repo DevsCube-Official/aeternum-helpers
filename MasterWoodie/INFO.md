@@ -13,3 +13,4 @@
     - Every function:
         - who executes the function at what position
         - macro arguments `<macro_arg_name>:<short_description>`
+        - expected scores / tags / storage data
