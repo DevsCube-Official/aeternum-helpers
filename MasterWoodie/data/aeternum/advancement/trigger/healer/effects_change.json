@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "": {
+            "trigger": "effects_changed"
+        }
+    },
+    "rewards": {
+        "function": "aeternum:healer/trigger/effects_change"
+    }
+}
