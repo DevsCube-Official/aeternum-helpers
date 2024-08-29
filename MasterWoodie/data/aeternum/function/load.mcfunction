@@ -5,15 +5,15 @@
 ##
 
 # level of your selected class, determines if an ability is unlocked or not
-scoreboard objectives add class_level dummy
+scoreboard objectives add aeternum.class_level dummy
 
 # temporary score stuff
-scoreboard objectives add temp dummy
+scoreboard objectives add aeternum.temp dummy
 
 ##
 # Custom scores
 ##
-scoreboard objectives add ability_stick_cd dummy
+scoreboard objectives add aeternum.ability_stick_cd dummy
 
 ##
 # schedule loop functions

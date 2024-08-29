@@ -1,6 +1,6 @@
 # 4: Cleanses negative debuffs from closest player
 
-execute unless score @s class_level matches 4.. run return run function aeternum:util/level_too_low
+execute unless score @s aeternum.class_level matches 4.. run return run function aeternum:util/level_too_low
 
 tag @s add active_player
 
