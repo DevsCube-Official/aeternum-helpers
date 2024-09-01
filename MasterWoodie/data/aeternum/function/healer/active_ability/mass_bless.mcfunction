@@ -1,11 +1,13 @@
 # 8: Give all players (in radius) absorbtion (2 hearts) 1 min
 
+# as and at healer
+
 execute unless score @s aeternum.class_level matches 8.. run return run function aeternum:util/level_too_low
 
 tag @s add active_player
 
 scoreboard players set count aeternum.temp 0
-execute as @a[distance=..10, tag=!active_player] at @s run function aeternum:healer/bless/apply
+execute as @a[distance=..25, tag=!active_player] at @s run function aeternum:healer/bless/apply
 
 
 execute if score count aeternum.temp matches 0 run function aeternum:healer/bless/fail
