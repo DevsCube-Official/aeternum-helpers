@@ -7,7 +7,7 @@ execute unless score @s aeternum.class_level matches 7.. run return run function
 tag @s add active_player
 
 scoreboard players set count aeternum.temp 0
-execute as @e[distance=..25,type=#undead, tag=!active_player] at @s run function aeternum:healer/mass_requiem/apply
+execute as @e[distance=..25,type=#undead] at @s run function aeternum:healer/mass_requiem/apply
 
 
 execute if score count aeternum.temp matches 0 run function aeternum:healer/mass_requiem/fail
