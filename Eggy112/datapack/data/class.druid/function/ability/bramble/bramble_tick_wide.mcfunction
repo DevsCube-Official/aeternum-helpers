@@ -15,8 +15,13 @@ execute as @a if score @s aeternum.ability.druid.brambleOwner.id = .this aeternu
 scoreboard players remove @s aeternum.ability.druid.timer 1
 
 
+
 # Catch something
-execute positioned ~ ~-0.5 ~ as @n[type=#class.druid:hostile_ish,dx=0,tag=!owner] at @s run function class.druid:ability/bramble/catch
+execute positioned ~-1 ~ ~-1 as @n[type=#class.druid:hostile_ish,dx=1,dy=0,dz=1,tag=!owner] unless score @s aeternum.ability.druid.brambleHitcooldown matches 1.. at @s run function class.druid:ability/bramble/catch_wide_init
+
+execute positioned ~-1 ~ ~-1 as @n[type=#class.druid:hostile_ish,dx=1,dy=0,dz=1,tag=!owner] if score @s aeternum.ability.druid.brambleHitcooldown matches 1 at @s run function class.druid:ability/bramble/catch_wide
+
+
 
 
 # Kill if caught something or time ran out

@@ -1,16 +1,17 @@
 
-Currently no leveling system, sorry
+Levels has been added
 
 
 
-Before casting abilities please give yourself the tag:
-"aeternum.class.druid"
-
-As of now, this tag is what will say that you are in the Druid class
+"aeternum.class.druid" tag no longer needed. 
+The datapack will recognize you as a druid as long as you have a aeternum.ability.druid.level score of at least 1
 
 
+aeternum.ability.druid.mana is the score for the energy used to cast/use abilities. As of now the abilities only need 50 to cast
 
-Thorny vine ability is still WIP
+
+
+Thorny vine ability is still WIP (Can't figure out how should I display the vines)
 
 To cast Bramble:
 function class.druid:ability/bramble/cast

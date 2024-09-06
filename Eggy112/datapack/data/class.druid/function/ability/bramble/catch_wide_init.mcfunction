@@ -1,5 +1,5 @@
 
-# Bramble catch
+# Bramble catch_wide_init
 
 # FX
 playsound minecraft:item.shield.break player @a ~ ~ ~ 1 1
@@ -10,6 +10,7 @@ damage @s 6 minecraft:cactus
 effect give @s minecraft:slowness 5 2
 
 # Power Sap
+execute if score @p[tag=owner] aeternum.ability.druid.level matches 9.. run particle minecraft:firework ~ ~ ~ 0.5 0.5 0.5 0.01 20 force
 execute if score @p[tag=owner] aeternum.ability.druid.level matches 9.. run effect give @s minecraft:weakness 5 0
 
 
@@ -20,5 +21,6 @@ execute if score @p[tag=owner] aeternum.ability.druid.level matches 8.. if score
 
 
 
-# Destroy bramble
-scoreboard players set @n[type=marker,tag=this] aeternum.ability.druid.timer 0
+
+# Set hit cooldown
+scoreboard players set @s aeternum.ability.druid.brambleHitcooldown 21

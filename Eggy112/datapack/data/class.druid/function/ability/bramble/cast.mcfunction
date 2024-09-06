@@ -8,13 +8,14 @@ execute unless score @s aeternum.ability.druid.mana matches 50.. run title @s ac
 execute unless score @s aeternum.ability.druid.mana matches 50.. run return fail
 
 
-
+# Subtract energy
 scoreboard players remove @s aeternum.ability.druid.mana 50
 
 
 
-
+# Announce
 tellraw @s ["",{"text":"Bramble","bold":true,"color":"green"},{"text":" casted!","color":"yellow"}]
+
 
 
 tag @s add caster
