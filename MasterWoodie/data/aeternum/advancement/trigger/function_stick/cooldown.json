@@ -5,6 +5,6 @@
         }
     },
     "rewards": {
-        "function": "aeternum:ability_stick/cooldown"
+        "function": "aeternum:function_stick/cooldown"
     }
 }
